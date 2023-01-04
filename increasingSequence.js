@@ -63,18 +63,3 @@ for (i = 0; i < seq.length; i++) if(seq[i]<=seq[i-1]) {
 
 
 
-
-    for (i = 0; i < 1; i++) {
-        if (x == 1) {
-            return true;
-        }else{
-            return false;
-        }
-    }
-
-    for (i = 0; i < 1; i++) if (x ==1) {
-        return true;
-
-    }
-
-    return false;
